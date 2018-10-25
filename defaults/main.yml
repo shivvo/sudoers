@@ -1,0 +1,3 @@
+---
+sudoers_group: "wheel"
+sudoers_users: []
